@@ -2,8 +2,8 @@
 
 ## TODO
 
-- [ ] Make it deploy (w/ vercel)
-- [ ] Scaffold basic ui with mock data
+- [x] Make it deploy (w/ vercel)
+- [x] Scaffold basic ui with mock data (mock data w/ upload thing)
 - [ ] Actually set up a database (vercel postgres)
 - [ ] Attach database to UI
 - [ ] Add authentication (w/ clerk)
@@ -13,5 +13,3 @@
 - [ ] Delete buttons (w/ server actions)
 - [ ] Analytics (posthog)
 - [ ] Rate limiting (upstash)
-
-
